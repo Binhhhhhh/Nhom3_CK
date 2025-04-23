@@ -1,0 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+Nhom3_ck.zip filter=lfs diff=lfs merge=lfs -text
